@@ -1,0 +1,26 @@
+java aula 1
+
+int=numero=0
+double media
+boolean encontro=false
+float =números decimais,colocar "f" no final dos numeros
+byte pontuação
+char confirma='s'
+String=nome(cadeia)
+
+
+public class Aula1 {
+    public static void main(String[] args) {
+    System.out.println("Aula de Java!");
+    int numero = 10;
+    double decimal = 3.14;
+    boolean verdadeiro = true;
+    float pi = 3.14f;
+    byte pequenoNumero = 50;
+    char letra = 'A';
+    String texto = "Exemplo de String";
+
+    System.out.println("Aula de Java: " + letra + numero);
+    }
+}
+
