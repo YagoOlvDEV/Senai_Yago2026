@@ -1,12 +1,16 @@
 java aula 1
 
 int=numero=0
-double media
+double media,numero quebrado exe altura,1,89
 boolean encontro=false
 float =números decimais,colocar "f" no final dos numeros
 byte pontuação
 char confirma='s'
 String=nome(cadeia)
+do=faça
+while=enquanto
+
+  JOptionPane.showInputDialog()=mostra a caxinha de mensagem=mesma coisa que Scanner.
 
 
 public class Aula1 {
